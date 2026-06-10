@@ -175,3 +175,8 @@ Tools and integrations built by the community around 3x-ui.
 ## Stargazers over Time
 
 [![Stargazers over time](https://starchart.cc/MHSanaei/3x-ui.svg?variant=adaptive)](https://starchart.cc/MHSanaei/3x-ui)
+
+
+## ULing19 True Fork Notice / 复刻声明
+
+This repository is maintained as a ULing19 true GitHub fork for integration experiments. See [ULING19_FORK_NOTICE.md](./ULING19_FORK_NOTICE.md).
